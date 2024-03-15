@@ -1,5 +1,8 @@
-
 # Credito Hipotecario
+
+![imagen](https://github.com/JoaquinEscobarDev/Credito-Hipotecario/assets/152922219/d1767e10-2271-4b0c-a6af-f3e00eb803ec)
+![imagen](https://github.com/JoaquinEscobarDev/Credito-Hipotecario/assets/152922219/08f7064e-a09c-4b2d-957f-ae7eb9c0ea80)
+
 
 - Esta página web permite simular créditos hipotecarios de manera rápida y sencilla. Los usuarios completan un formulario con detalles como el estado de la propiedad, el tipo de moneda y el valor del préstamo. La página realiza validaciones en tiempo real y muestra los resultados de forma clara, incluyendo el monto del crédito, el total a pagar y el plazo del préstamo.
  
